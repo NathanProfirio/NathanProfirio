@@ -5,7 +5,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Nathan Alves Profirio, sou de Imperatriz - MA, tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas na UNIFACIMP. Sou apaixonado por tecnologia.
-Atualmente, estou aprendendo *Python, HTML, Django e CSS*, e cada linha de código que escrevo me motiva ainda mais a seguir nesse caminho. Gosto de resolver problemas, criar soluções e transformar ideias em realidade através da tecnologia.
+Atualmente, estou aprendendo **Python, Django, HTML e CSS**, e cada linha de código que escrevo me motiva ainda mais a seguir nesse caminho. Gosto de resolver problemas, criar soluções e transformar ideias em realidade através da tecnologia.
 Este repositório é onde compartilho meus projetos, estudos, desafios e aprendizados. Estou em constante evolução e aberto a feedbacks, colaborações e novas conexões com outros desenvolved
 </p
 
