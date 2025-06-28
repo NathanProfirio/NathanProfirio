@@ -37,11 +37,11 @@ Este repositório é onde compartilho meus projetos, estudos, desafios e aprendi
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="Django" 
+    title="Django"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
     align="left" 
